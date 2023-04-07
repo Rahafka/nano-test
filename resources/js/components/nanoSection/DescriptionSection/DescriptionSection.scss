@@ -1,0 +1,36 @@
+.desc-main{
+    text-align: center;
+    .desc-title{
+        background-color: #D1F7FC;
+        color: #2EB9CC;
+        padding-inline: 40px;
+        // width: 172px;
+        height: 38px;
+        border-radius: 6px;
+        font-size: 14px;
+        margin: auto;
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 1rem;
+        width: max-content;
+    }
+    .desc-h3{
+        color: #16375B;
+        font-weight: bold;
+        font-size: 40px;
+    }
+    .desc-divider{
+        background-color: #2EB9CC;
+        width: 79px;
+        height: 5px;
+        border-radius: 10px;
+        margin: auto;
+    }
+    .desc-subtitle{
+        color: #000000;
+        font-size: 18px;
+        font-weight: 600;
+    }
+}

@@ -1,0 +1,21 @@
+.card-main{
+    width: 264px;
+    height: 234px;
+    border-radius: 16px;
+    &:hover{
+        box-shadow: 0px 3px 30px #00000029;
+    }
+    .card-img{
+        height: 60px;
+        width: 60px;
+        margin: auto;
+    }
+    .card-rate{
+        color: #00A4C5;
+        font-size: 30px;
+    }
+    .card-des{
+        color: #00355E;
+        font-size: 18px;
+    }
+}

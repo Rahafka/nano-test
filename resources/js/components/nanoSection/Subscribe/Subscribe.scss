@@ -1,0 +1,35 @@
+.subscribe-main{
+    background-color: #B8D5E0;
+    text-align: center;
+    height: 265px;
+    .subscribe-h3{
+        color: #16375B;
+        font-size: 32px;
+        font-weight: bold;
+        margin-bottom: 25px;
+    }
+    .subscribe-field{
+        max-width: 556px;
+        margin: auto;
+        .subscribe-input{
+            background-color: #FFFFFF;
+            height: 59px;
+            max-width: 400px;
+            width: 100%;
+            border-radius: 6px 0px 0px 6px;
+            padding-left: 20px;
+            &::placeholder{
+                color: #BFBFBF;
+                font-size: 17px;
+            }
+        }
+        .subscribe-btn{
+            background-color: #1D829A;
+            height: 59px;
+            font-size: 15px;
+            max-width: 158px;
+            width: 100%;
+        }
+    }
+
+}

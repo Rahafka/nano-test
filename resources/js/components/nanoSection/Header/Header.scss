@@ -1,0 +1,31 @@
+.heade-span{
+    font-size: 18px;
+    font-weight: bold;
+    color: #0A293B;
+}
+
+.heade-p{
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #0A293B;
+}
+.contact-btn{
+    background-color: #00A4C5;
+    font-size: 16px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    width: 112px;
+    height: 44px;
+    justify-content: center;
+}
+.contact-info{
+    position: relative;
+    .contact-img{
+        position: absolute;
+        top: 5px;
+        left: -25px;
+        width: 20px;
+        height: 20px;
+    }
+}

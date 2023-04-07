@@ -1,0 +1,22 @@
+.social-ul{
+    padding-left: 0px;
+    justify-content: space-between;
+    li{
+        margin-right: 10px;
+    }
+}
+.social-link {
+    background-color: #4EBECE;
+    width: 31px;
+    height: 31px;
+    display: flex;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    &:hover{
+        box-shadow: 0px 3px 30px rgb(0 0 0 / 16%);
+    }
+}
+// .google-img{
+//     background : transparent url('./icon-sm-G+.png') 0% 0% no-repeat padding-box;
+// }
